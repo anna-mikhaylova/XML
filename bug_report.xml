@@ -1,1 +1,15 @@
-
+ <bug_report> 
+   <1>Bug_id</1>
+   <2>Reporter_name</2>
+   <3>Date</3>
+   <4>Project</4>
+   <5>Severity</5>
+   <6>Priority</6>
+   <7>Title</7>
+   <8>Description</8>
+   <9>Steps_to_reproduce</9>
+   <10>Expected_result</10>
+   <11>Actual_result</11>
+   <12>Environment</12>
+   <13>Attachments</13>
+</bug_report>
